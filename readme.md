@@ -1,7 +1,7 @@
 
 # Calculadora
 
-Meu primeiro projeto, uma calculadora com inumeras funções, armazenamento e até porcentagem. :)
+Meu primeiro projeto, uma calculadora com inumeras funÃ§Ãµes, armazenamento e atÃ© porcentagem. :p
 
 
 
