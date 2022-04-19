@@ -43,10 +43,6 @@ int main(int argc, char** argv)
 	  cout << "\nA divisão é igual a: " << n1/n2 << endl;
 	  main (0,0);	
 	}
-	if (opcao==6){
-      cout << "\nEspero ter ajudado, até a próxima. :) \n";
-	  return 0;	
-	}
 	if (opcao==5){
       cout << "\nSelecione o número a ser utilizado: ";
 	  cin  >> n3;
@@ -54,7 +50,13 @@ int main(int argc, char** argv)
       cin  >> n4;
       n4 = n4/100;
 	  cout << "\nA porcentagem é igual a: " << n3*n4 << endl;
-	  main (0,0);	
+	  main (0,0);
+	}
+	if (opcao==6){
+      cout << "\nEspero ter ajudado, até a próxima. :) \n";
+      system("pause");
+      system("cls");
+	  return 0;		
 	}
 	return 0;
 }
